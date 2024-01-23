@@ -2,7 +2,8 @@
 
 This Project aims to analyze the surveyed lung cancer dataset and get insight from the dataset and visualize the same. It also aims Build an supervised learning model to predict the lung cancer using various python libraries and calculate the accuracy for the following.
 
-Hari<<<<<<< HEAD
+<<<<<<< HEAD
+Hari
 =======
 The NoteBook Briefly Visualizes Dataset with Histograms , Barplots and Heatmaps to get a basic idea
 
